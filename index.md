@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 permalink: /
 title: "Hi, I'm Dylen"
+sidebar: left
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5" # dims the background to make text pop
@@ -16,6 +18,7 @@ Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.gith
 I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georiga Tech](https://www.epic.gatech.edu/).
 
 In my free time I persue various [personal projects](/personal-projects/).
+
 ---
 
 

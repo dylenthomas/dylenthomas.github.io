@@ -114,11 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Dylen Thomas"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |
-    - Mech. Engineering @ Georgia Tech
-    - Robotics & Automation Concentration
-    - President of CanSat Robotics Club @ Georgia Tech
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Christian who is curious, passionate, and loves to learn."
   location         : "Atlanta, GA"
   email            :
   links:
