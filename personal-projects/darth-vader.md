@@ -6,7 +6,7 @@ classes: wide
 ---
 Desc
 
-{% assign lars_projects = site.posts | where_exp:"post","post.tags contains 'LARS'" %}
+{% assign lars_projects = site.posts | where_exp:"post","post.tags contains 'Darth Vader'" %}
 {% for project in lars_projects %}
 ### [{{ project.title }}]({{ project.url }})
 {{ project.excerpt }}
