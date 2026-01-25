@@ -1,9 +1,8 @@
 ---
-layout: "single"
+layout: "page"
 title: "CV"
 permalink: /cv/
 author_profile: false
-side_bar: false
 classes: wide
 ---
 {: .notice--info }

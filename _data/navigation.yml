@@ -2,9 +2,5 @@
 main:
    - title: "Home" # Brings back to home page
      url: https://dylenthomas.github.io
-   - title: "School Projects"
-     url: /school-projects/
-   - title: "Personal Projects"
-     url: /personal-projects/
    - title: "CV"
      url: /cv/

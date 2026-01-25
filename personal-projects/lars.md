@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: post 
 title: "LARS"
-author_profile: false
-excerpt: "Full description of Project One."
+author_profile: true 
 ---
 
+Excerpt
