@@ -8,15 +8,6 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5" # dims the background to make text pop
-feature_row:
-  - image_path: /assets/images/lars-cover.jpg
-    title: LARS
-    excerpt: "A custom home automation project."
-    url: /personal-projects/lars/
-  - image_path: /assets/images/darth-vader-cover.png
-    title: Darth Vader Cosplay
-    excerpt: "A handmade Darth Vader cosplay for halloween."
-    url: /personal-projects/darth-vader/
 ---
 
 ## About Me
@@ -30,4 +21,5 @@ In my free time I persue various [personal projects](/personal-projects/).
 
 ---
 ## My Personal Projects
+{% include personal_projects_feature_row.md %}
 {% include feature_row %}
