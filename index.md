@@ -11,7 +11,7 @@ header:
 ---
 
 ## About Me
-I am a third year Mechanical Engineering undergrad with a concentration in Robotics & Automation at Georgia Tech.
+I am a *Third year Mechanical Engineering* undergrad with a *concentration in Robotics & Automation* at Georgia Tech.
 
 Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.github.io) at Georiga Tech, which is a robotics competition club.
 
