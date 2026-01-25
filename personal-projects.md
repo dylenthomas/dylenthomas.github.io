@@ -1,10 +1,11 @@
 ---
 layout: single
 title: "Projects"
-author_profile: false
 permalink: /personal-projects/
+author_profile: false
+side_bar: false
+classes: wide
 feature_row:
-  class: "three-up"
   - image_path: /assets/images/lars-cover.jpg
     title: LARS 
     excerpt: "A custom home automation project."
