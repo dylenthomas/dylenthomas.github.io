@@ -8,6 +8,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5" # dims the background to make text pop
+{% include personal_projects_feature_row.md %}
 ---
 
 ## About Me
@@ -21,5 +22,4 @@ In my free time I persue various [personal projects](/personal-projects/).
 
 ---
 ## My Personal Projects
-{% include personal_projects_feature_row.md %}
 {% include feature_row %}
