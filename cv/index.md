@@ -2,6 +2,7 @@
 layout: "single"
 title: "CV"
 author_profile: false
+classes: wide
 ---
 {: .notice--info }
 **Download:** [My CV.pdf](my_cv.pdf)

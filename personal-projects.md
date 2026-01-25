@@ -4,6 +4,7 @@ title: "Projects"
 author_profile: false
 permalink: /personal-projects/
 feature_row:
+  class: "three-up"
   - image_path: /assets/images/lars-cover.jpg
     title: LARS 
     excerpt: "A custom home automation project."
