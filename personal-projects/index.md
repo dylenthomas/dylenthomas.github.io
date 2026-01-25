@@ -13,6 +13,10 @@ feature_row:
     title: Darth Vader Cosplay
     excerpt: "A handmade Darth Vader cosplay for halloween."
     url: /personal-projects/darth-vader/
+  - image_path: /assets/images/hydrogen-reactor-cover.png
+    title: Miniturized Hydrogen Reactor
+    excerpt: "A hand-sized hydrogren generator using electrolysis."
+    url: /personal-projects/hydrogen-reactor/
 ---
 
 ## My Personal Projects

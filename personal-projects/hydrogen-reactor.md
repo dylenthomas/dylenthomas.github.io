@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "LARS"
+title: "Hydrogen Reactor"
 author_profile: true
 classes: wide
 ---
-Desc
+Description
 
-{% assign lars_projects = site.posts | where_exp:"post","post.tags contains 'LARS'" %}
+{% assign lars_projects = site.posts | where_exp:"post","post.tags contains 'Hydrogen Reactor'" %}
 {% for project in lars_projects %}
 ### [{{ project.title }}]({{ project.url }})
 {{ project.excerpt }}
