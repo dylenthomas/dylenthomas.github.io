@@ -15,8 +15,8 @@ I am a *Third year Mechanical Engineering* undergrad with a *concentration in Ro
 
 Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.github.io) at Georiga Tech, which is a robotics competition club.
 
-I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georiga Tech](https://www.epic.gatech.edu/).
+I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georgia Tech](https://www.epic.gatech.edu/).
 
-In my free time I persue various [personal projects](/personal-projects/).
+In my free time I pursue various [personal projects](/personal-projects/).
 
 ---
