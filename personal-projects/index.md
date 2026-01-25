@@ -5,7 +5,7 @@ permalink: /personal-projects/
 title: "My Projects"
 classes: wide
 feature_row:
-  - image_path: /assets/images/lars-cover.jpg
+  - image_path: /assets/images/lars/refactor_structure.png
     title: LARS
     excerpt: "A custom home automation project."
     url: /personal-projects/lars/
