@@ -1,6 +1,7 @@
 ---
 layout: single 
 author_profile: true
+permalink: /
 title: "Hi, I'm Dylen"
 header:
   overlay_color: "#5e616c"
