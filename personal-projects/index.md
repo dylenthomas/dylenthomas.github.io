@@ -10,8 +10,8 @@ feature_row:
     excerpt: "A custom home automation project."
     url: /personal-projects/lars/
   - image_path: /assets/images/darth-vader-cover.png
-    title: Darth Vader Cosplay
-    excerpt: "A handmade Darth Vader cosplay for halloween."
+    title: Darth Vader Costume
+    excerpt: "A handmade Darth Vader costume for halloween."
     url: /personal-projects/darth-vader/
   - image_path: /assets/images/hydrogen-reactor-cover.png
     title: Miniturized Hydrogen Reactor
