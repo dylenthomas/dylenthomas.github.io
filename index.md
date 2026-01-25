@@ -13,7 +13,7 @@ header:
 ## About Me
 I am a *Third year Mechanical Engineering* undergrad with a *concentration in Robotics & Automation* at Georgia Tech.
 
-Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.github.io) at Georiga Tech, which is a robotics competition club.
+Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.github.io) at Georgia Tech, which is a robotics competition club.
 
 I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georgia Tech](https://www.epic.gatech.edu/).
 
