@@ -115,7 +115,10 @@ analytics:
 author:
   name             : "Dylen Thomas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mechanical Engineering Undergrad at Georgia Tech with Robotics & Automation Concentration. President of CanSat Robotics Club at Georgia Tech"
+  bio              : |
+    - Mech. Engineering @ Georgia Tech
+    - Robotics & Automation Concentration
+    - President of CanSat Robotics Club @ Georgia Tech
   location         : "Atlanta, GA"
   email            :
   links:
