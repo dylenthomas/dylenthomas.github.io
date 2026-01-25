@@ -3,4 +3,7 @@ main:
    - title: "Home" # Brings back to home page
      url: https://dylenthomas.github.io
    - title: "CV"
-     url: /cv/
+     url: /cv/ 
+   - title: "Personal Projects"
+     url: /personal-projects/
+   
