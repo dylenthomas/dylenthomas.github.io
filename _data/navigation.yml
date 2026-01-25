@@ -1,8 +1,10 @@
 # main links
 main:
-   - title: "About" # Brings back to home page
+   - title: "Home" # Brings back to home page
      url: https://dylenthomas.github.io
    - title: "School Projects"
-  #   url: /year-archive/
+     url: /school-projects/
    - title: "Personal Projects"
-  #   url: /collection-archive/
+     url: /personal-projects/
+   - title: "CV"
+     url: /cv/
