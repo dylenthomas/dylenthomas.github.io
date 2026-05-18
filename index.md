@@ -7,7 +7,7 @@ sidebar: left
 classes: wide
 header:
   overlay_color: "#5e616c"
-feature_row_1:
+feature_row:
   - title: LARS
     excerpt: "A custom project that allows me to control my room with voice commands."
     url: /personal-projects/lars/
@@ -24,4 +24,4 @@ Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.gith
 I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georgia Tech](https://www.epic.gatech.edu/).
 
 ## My Personal Projects
-{% include feature_row_1 %}
+{% include feature_row %}
