@@ -8,7 +8,9 @@ LARS stands for Live Asr (automatic speech recognition) with Raspberry pi S. Whi
 
 The current project architecture is described in the figure shown here:
 
-[LARSRefactorArchitecture](/assets/images/lars/refactor_structure.png)
+<div style="max-width:1000px; margin:0 auto; padding:20px;">
+  <img src="/assets/images/lars/refactor_structure.png" alt="LARS Refactor Structure">
+</div>
 
 All of the code for speech detection/logic is now hosted on a central server (my old desktop sitting in my closet) with the microphones connected directly to it. All of the execution before "Real World Action" is exectued on this server. The "Real World Action" can describes many things, but currently it is an IOT style Raspberry Pi setup that controls relays.
 

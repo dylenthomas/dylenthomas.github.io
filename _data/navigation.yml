@@ -1,6 +1,6 @@
 # main links
 main:
-   - title: "Home" # Brings back to home page
+   - title: "Home"
      url: / 
    - title: "CV"
      url: /cv/ 

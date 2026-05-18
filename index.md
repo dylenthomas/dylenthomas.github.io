@@ -7,13 +7,10 @@ sidebar: left
 classes: wide
 header:
   overlay_color: "#5e616c"
-feature_row:
+feature_row_1:
   - title: LARS
     excerpt: "A custom project that allows me to control my room with voice commands."
     url: /personal-projects/lars/
-  - title: Darth Vader Costume
-    excerpt: "A handmade Darth Vader costume for halloween."
-    url: /personal-projects/darth-vader/
   - title: Miniturized Hydrogen Reactor
     excerpt: "A hand-sized hydrogren generator using electrolysis."
     url: /personal-projects/hydrogen-reactor/
@@ -27,4 +24,4 @@ Founding President of the [CanSat Robotics Club](https://cansatroboticsclub.gith
 I have done research in exo-skeleton assistance for chronic post-stroke survivors at the [EPIC Lab at Georgia Tech](https://www.epic.gatech.edu/).
 
 ## My Personal Projects
-{% include feature_row %}
+{% include feature_row_1 %}
