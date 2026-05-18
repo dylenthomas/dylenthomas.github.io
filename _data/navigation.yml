@@ -2,5 +2,5 @@
 main:
    - title: "Home"
      url: / 
-   - title: "CV"
-     url: /cv/ 
+   - title: "Open My CV"
+     url: /cv/DylenLivermansCV.pdf 
