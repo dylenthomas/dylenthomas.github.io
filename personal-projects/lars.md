@@ -8,7 +8,7 @@ LARS stands for Live Asr (automatic speech recognition) with Raspberry pi S. Whi
 
 The current project architecture is described in the figure shown here:
 
-<div style="max-width:1000px; margin:0 auto; padding:20px;">
+<div style="max-width:500px; margin:0 auto; padding:20px;">
   <img src="/assets/images/lars/refactor_structure.png" alt="LARS Refactor Structure">
 </div>
 
