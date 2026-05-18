@@ -1,9 +1,6 @@
 # main links
 main:
    - title: "Home" # Brings back to home page
-     url: https://dylenthomas.github.io
+     url: / 
    - title: "CV"
      url: /cv/ 
-   - title: "Personal Projects"
-     url: /personal-projects/
-   
