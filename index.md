@@ -8,16 +8,13 @@ classes: wide
 header:
   overlay_color: "#5e616c"
 feature_row:
-  - image_path: /assets/images/lars/refactor_structure.png
-    title: LARS
-    excerpt: "A custom home automation project."
+  - title: LARS
+    excerpt: "A custom project that allows me to control my room with voice commands."
     url: /personal-projects/lars/
-  - image_path: /assets/images/darth-vader-cover.png
-    title: Darth Vader Costume
+  - title: Darth Vader Costume
     excerpt: "A handmade Darth Vader costume for halloween."
     url: /personal-projects/darth-vader/
-  - image_path: /assets/images/hydrogen-reactor-cover.png
-    title: Miniturized Hydrogen Reactor
+  - title: Miniturized Hydrogen Reactor
     excerpt: "A hand-sized hydrogren generator using electrolysis."
     url: /personal-projects/hydrogen-reactor/
 ---
@@ -31,5 +28,3 @@ I have done research in exo-skeleton assistance for chronic post-stroke survivor
 
 ## My Personal Projects
 {% include feature_row %}
-
----
